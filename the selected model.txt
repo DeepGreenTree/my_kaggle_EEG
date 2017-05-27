@@ -1,0 +1,1 @@
+the model is len3584_resize3_bs_c1r4p5_f9n256r35p1
